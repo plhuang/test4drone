@@ -13,6 +13,6 @@ steps:
 - name: deploy
   image: python:3.7
   commands:
-  - pwd
   - ls
+  - pwd
   - deploy-script.sh
