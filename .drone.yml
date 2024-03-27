@@ -16,4 +16,4 @@ steps:
   - chmod +x deploy-script.sh
   - ls -l
   - pwd
-  - deploy-script.sh
+  - ./deploy-script.sh
